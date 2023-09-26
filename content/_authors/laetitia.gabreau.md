@@ -8,7 +8,7 @@ missions:
     status: independent
     employer: Benext
   - start: 2021-11-01
-    end: 2023-10-30
+    end: 2023-11-05
     status: independent
     employer: Malt
   - start: 2023-02-27
